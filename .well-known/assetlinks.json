@@ -1,0 +1,14 @@
+[
+    {
+        "realation": [
+            "delegate_permission/common.handle_allurls"
+        ],
+        "target": {
+            "namespace": "com.example.driver_livroute",
+            "package_name": "online.livroute.driver",
+            "sha256_cert_fingerprints": [
+                "65:86:76:83:AF:C3:D1:57:AC:55:6E:87:85:90:EA:3F:1E:98:A3:F7:BB:57:28:19:CF:17:46:DA:03:08:62:39"
+            ]
+        }
+    }
+]
