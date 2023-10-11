@@ -4,8 +4,8 @@
             "delegate_permission/common.handle_allurls"
         ],
         "target": {
-            "namespace": "deep_linking",
-            "package_name": "com.example.deep_linking",
+            "namespace": "com.example.deep_linking",
+            "package_name": "online.livroute.driver",
             "sha256_cert_fingerprints": [
                 "D3:4F:E0:52:F2:BF:20:63:9B:A9:22:25:58:96:C1:9F:D4:A2:B8:E5:BC:DC:71:DE:E0:9B:B1:51:47:D0:41:E9"
             ]
